@@ -1,0 +1,28 @@
+    PID TTY          TIME CMD
+   1987 pts/0    00:00:00 bash
+   2020 pts/0    00:00:00 ps
+    1  whoami
+    2  ok
+    3  thanks
+    4  lol
+    5  clear
+    6  a
+    7  clear
+    8  man ls
+    9  clear
+   10  mkdir CS478
+   11  ls
+   12  clear
+   13  mkdir CS478
+   14  cd CS478
+   15  mkdir Lab1
+   16  cd Lab1
+   17  ls
+   18  pwd
+   19  pwd > file1
+   20  ls
+   21  cat file1
+   22  ps > file2
+   23  cat file2
+   24  man ls
+   25  history >> file2
